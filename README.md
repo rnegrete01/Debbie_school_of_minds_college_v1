@@ -40,6 +40,28 @@ This project contains **11 tables** with primary key, foreign key, and check con
 ---
 
 ## 🛠 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/rnegrete01/Debbie_school_of_minds_college_v1
+Download from Github and open in mySQL
+
+## 📜 License
+- ![License](https://img.shields.io/badge/License-MIT-green)  
+- Copyright © 2025  
+
+---
+
+## 👩‍💻 Authors
+
+<img src="https://github.com/sadekone01.png" alt="Profile Picture" width="100" />
+
+👩‍🎓 **Sara Kone**  
+- **GitHub Profile**: [sadekone01](https://github.com/sadekone01)  
+- **Email**: [konesaradavid@gmail.com](mailto:konesaradavid@gmail.com)  
+
+---
+
+<img src="https://github.com/rnegrete01.png" alt="Profile Picture" width="100" />
+
+👨‍🎓 **Rafael Negrete Fonseca**  
+- **GitHub Profile**: [rnegrete01](https://github.com/rnegrete01)  
+- **Email**: [ranegr01@wsc.edu](mailto:ranegr01@wsc.edu)  
+
+
