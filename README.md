@@ -7,7 +7,6 @@ This project is a relational database design built to manage users, students, em
 
 ## 📊 EER Diagram
 The EER Diagram shows how the 11 tables are related.  
-//might come back and add final picture of the diagram
 
 ---
 
